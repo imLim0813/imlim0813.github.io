@@ -7,7 +7,7 @@ use_math : true
 
 ## 0. Paper
 
-&nbsp;Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. nature, 323(6088), 533-536.
+&nbsp;[Rumelhart, D. E., Hinton, G. E., & Williams, R. J. (1986). Learning representations by back-propagating errors. nature, 323(6088), 533-536.](https://www.cs.toronto.edu/~hinton/absps/naturebp.pdf){:target="_blank"}
 <br>
 
 ## 1. Introduction
